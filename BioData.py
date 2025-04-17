@@ -1,0 +1,20 @@
+# Taking inputs from the user
+name = input("Enter student's name: ")
+dob = input("Enter Date of Birth (DD-MM-YYYY): ")
+roll_no = input("Enter Roll Number: ")
+section = input("Enter Section: ")
+matric_percentage = float(input("Enter Matriculation Percentage: "))
+matric_grade = input("Enter Matriculation Grade: ")
+inter_percentage = float(input("Enter Intermediate Percentage: "))
+inter_grade = input("Enter Intermediate Grade: ")
+
+# Displaying the bio data
+print("\n----- Student Bio Data -----")
+print("Name:", name)
+print("Date of Birth:", dob)
+print("Roll Number:", roll_no)
+print("Section:", section)
+print("Matriculation Percentage:", matric_percentage, "%")
+print("Matriculation Grade:", matric_grade)
+print("Intermediate Percentage:", inter_percentage, "%")
+print("Intermediate Grade:", inter_grade)
