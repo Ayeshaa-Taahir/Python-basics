@@ -1,0 +1,27 @@
+{
+    "happy": [
+        "Yay! Keep smiling 😊",
+        "That’s awesome! 💫",
+        "Spread the good vibes! 🌈"
+    ],
+    "sad": [
+        "Sending you a virtual hug 🤗",
+        "It’s okay to feel sad sometimes 🌧️",
+        "Want to hear a joke to cheer up?"
+    ],
+    "stressed": [
+        "Take a deep breath 🌿",
+        "Try a 5-min break ☕",
+        "You’re doing your best — remember that!"
+    ],
+    "bored": [
+        "Want a random fun fact? 🐙",
+        "Maybe try something new today! 🎨",
+        "How about a quick walk? 🚶"
+    ],
+    "excited": [
+        "Woohoo! 🎉",
+        "Tell me what’s got you excited!",
+        "That’s contagious energy! ⚡"
+    ]
+}
